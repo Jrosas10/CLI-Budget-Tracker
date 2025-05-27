@@ -20,3 +20,16 @@ A simple command-line budget tracking app written in Python. Allows users to tra
 ## How to Run
 ```bash
 python tracker.py
+```
+
+## Example
+
+1. Add Income
+2. Add Expense
+3. View Balance
+4. View History
+5. View Monthly Summary
+6. Export to CSV
+7. Exit
+
+## Future Improvements
