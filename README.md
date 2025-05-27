@@ -22,7 +22,7 @@ A simple command-line budget tracking app written in Python. Allows users to tra
 python tracker.py
 ```
 
-## Example
+## Menu Layout
 
 1. Add Income
 2. Add Expense
@@ -33,3 +33,11 @@ python tracker.py
 7. Exit
 
 ## Future Improvements
+
+- Category tags (Food, Rent, etc.)
+
+- GUI or web version
+
+- More options for export
+
+- Import?
