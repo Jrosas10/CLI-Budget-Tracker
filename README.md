@@ -19,7 +19,7 @@ A simple command-line budget tracking app written in Python. Allows users to tra
 
 ## How to Run
 ```bash
-python tracker.py
+python budget_tracker.py
 ```
 
 ## Menu Layout
